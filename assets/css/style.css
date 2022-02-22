@@ -60,12 +60,12 @@ p {
     position: relative;
 }
 
-.float-left {
+.float-left img{
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right img{
     float: right;
     margin-left: 25px;
 }
@@ -92,8 +92,8 @@ p {
     color: #ffffff;
 }
 
-.benefits h3 {
-    margin-bottom: 10px;
+.benefits h3, .benefits p {
+    margin-bottom: 20px;
     text-align: center;
 }
 
