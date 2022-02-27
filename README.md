@@ -1,6 +1,6 @@
 # Horiseon
 
-This is a README file for the Horiseon webpage challenge for the University of Toronto Bootcamp.
+This is a README file for the Horiseon webpage challenge for the University of Toronto Coding Bootcamp.
 
 ## Important Links
 
